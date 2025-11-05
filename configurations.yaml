@@ -1,0 +1,5 @@
+image_directories:
+  - C:\Local\dataset\MaSTr1325_images_512x384
+
+mask_directories:
+  - C:\Local\dataset\MaSTr1325_masks_512x384
