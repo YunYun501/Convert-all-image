@@ -29,7 +29,7 @@ def image_to_tensor(image_path):
 
 if __name__ == "__main__":
     # Example usage with mask image
-    mask_dir = "../dataset/MaSTr1325_masks_512x384"
+    mask_dir = "C:\Local\dataset\MaSTr1325_masks_512x384"
     mask_file = "0001m.png"
     mask_path = os.path.join(mask_dir, mask_file)
     
